@@ -1,0 +1,23 @@
+hr.new {
+  border: 1px solid grey;
+  width: 500%;
+}
+input {
+
+box-sizing: border-box;
+margin: 8px;
+padding: 10px 8px;
+
+}
+.second-radio{
+margin-left: 2rem;
+}
+
+.card {
+padding: 20px 40px;
+max-width: 1500px;
+}
+div.sun{
+display: flex;
+padding:1rem 1rem
+}
